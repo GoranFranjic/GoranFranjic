@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on  me interested projects
 - 📫 How to reach me goran@proces.hr
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GoranFranjic)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GoranFranjic&theme=dark)](https://git.io/streak-stats)
 
 <!---
