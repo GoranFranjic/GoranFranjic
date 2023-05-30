@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Goran+enters+Java+programming+;and+welcomes+you!!!!!!!!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Goran+enters+Java+programming+;and+welcomes+you!!!!!!!!)
 
+  
 - 👋 Hi, I’m @GoranFranjic
 - 👀 I’m interested in new  challenges
 - 🌱 I’m currently learning java programming
