@@ -4,7 +4,7 @@
   
 - 👋 Hi, I’m @GoranFranjic
 - 👀 I’m interested in new  challenges
-- 🌱 I’m currently learning Java, C#, React Bootstrap  programming
+- 🌱 I’m currently Java, C#, React Bootstrap  programming
 - 💞️ I’m looking to collaborate on  me interested projects
 - 📫 How to reach me goran@proces.hr
 
