@@ -3,9 +3,9 @@
 
   
 - 👋 Hi, I’m @GoranFranjic
-- 👀 I’m interested in new  challenges
-- 🌱 I’m currently Java, C#, React Bootstrap  programming
-- 💞️ I’m looking to collaborate on  me interested projects
+- 👀 Interested in new  challenges
+- 🌱 Currently working with Java, C#, React, and Bootstrap.
+- 💞️ Looking to collaborate on  me interested projects
 - 📫 How to reach me goran@proces.hr
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GoranFranjic&theme=dark)](https://git.io/streak-stats)
