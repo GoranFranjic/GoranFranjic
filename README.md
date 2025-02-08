@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Goran+enters+programming+;and+welcomes+you!!!!!!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Goran+welcomes+you!!!!!!!!)
 
   
 - 👋 Hi, I’m @GoranFranjic
